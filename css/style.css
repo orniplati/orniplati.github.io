@@ -36,6 +36,16 @@ header{
 	background-color: css;
 }
 
+.css-arch{
+	width:90%;
+	background-color: css;
+}
+
+.blue-food{
+	width:50%;
+	background-color: css;
+}
+
 
 .white{
 	background-color: white;
@@ -79,4 +89,10 @@ header{
 .my-font{
 	font-family: 'Lato', sans-serif;
 	font-weight: '900i';
+}
+
+.img-center{
+    display: block;
+    margin: auto;
+    width: 100%;
 }
