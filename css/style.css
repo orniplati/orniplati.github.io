@@ -27,6 +27,10 @@ header{
   	height: 100vh;
 }
 
+iframe{
+	max-width: 95vw;
+}
+
 .blue-html{
 	width:25%;
 	background-color: blue;
@@ -94,5 +98,7 @@ header{
 .img-center{
     display: block;
     margin: auto;
-    width: 30vh;
+    /*margin-left: 10px;
+    margin-right: 10px;*/
+    width: 100%; /*30vh;*/
 }
