@@ -1,0 +1,82 @@
+.navbar{
+	position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 999;
+
+}
+.extra-margin{
+	 margin-top: 82px;
+}
+
+body{
+	background-color:  black;
+	/*font-family: 'Indie Flower', cursive;*/
+	/*font-family: 'Josefin Sans', sans-serif;*/
+	font-family: 'Lato', sans-serif;
+	/*font-weight: '90i';*/
+}
+
+header{
+	background: url('../img/P1080169.JPG') no-repeat center center;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;  /*mozilla firefox*/
+  	-o-background-size: cover;	/*operaa*/
+  	background-size: cover;
+  	height: 100vh;
+}
+
+.blue-html{
+	width:25%;
+	background-color: blue;
+}
+.css-CSS{
+	width:35%;
+	background-color: css;
+}
+
+
+.white{
+	background-color: white;
+}
+.violet{
+	background-color: violet;
+}
+
+.purple{
+	background-color: purple; 
+}
+
+.magenta{
+	background-color:  #99008C;
+}
+
+.nav-color{
+	/*background-color: #EBAAFF;*/
+	background-color: #83224C;
+}
+.image-width{
+	width: 100%;
+}
+
+.text-white{
+	color: white;
+}
+
+.margin-top{
+	margin-top: 50px;
+}
+
+.margin-bottom{
+	margin-bottom: 20px;
+}
+
+.margin-title{
+	margin-top: 40vh;
+}
+
+.my-font{
+	font-family: 'Lato', sans-serif;
+	font-weight: '900i';
+}
